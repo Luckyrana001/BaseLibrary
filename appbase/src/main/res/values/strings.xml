@@ -1,0 +1,13 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">TRY TO ON/OFF INTERNET AND CHECK THE SNACKBAR DISPLAY BY BASEACTIVITY</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet_connection_found">Internet connection available</string>
+    <string name="internet_connection_Lost">Internet connection lost</string>
+
+    <string name="GPSAlertDialogTitle">Location Alert</string>
+    <string name="GPSAlertDialogMessage">Allow Gps Location from Settings.</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
